@@ -23,10 +23,10 @@ html, body {
 
 /* Ship GIF positioned next to buttons */
 #ship {
-  width: 50%; /* Or set a specific width, if needed */
+  width: 38%; /* Or set a specific width, if needed */
   position: absolute;
-  bottom: 10vh; /* Use viewport height to ensure the ship stays near the bottom */
-  left: -18vh; /* Ensure it's on the left side */
+  bottom: 12vh; /* Use viewport height to ensure the ship stays near the bottom */
+  left: -10vb; /* Ensure it's on the left side */
   margin: 0;
   padding: 0;
 }
@@ -65,7 +65,7 @@ html, body {
   align-items: flex-start;
   position: absolute;
   bottom: 12vh;
-  left: 48vh;
+  left: 48vb;
   width: 19%;
 }
 
