@@ -25,8 +25,8 @@ html, body {
 #ship {
   width: 38%; /* Or set a specific width, if needed */
   position: absolute;
-  bottom: 12vh; /* Use viewport height to ensure the ship stays near the bottom */
-  left: -10vb; /* Ensure it's on the left side */
+  bottom: 12vh; 
+  left: -10vb; 
   margin: 0;
   padding: 0;
 }
